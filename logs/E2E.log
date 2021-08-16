@@ -1,0 +1,19 @@
+2021-08-12 12:55:34,161 INFO A.E.ValidateNavigationBar [TestNG] Driver is initalized
+2021-08-12 12:55:34,212 INFO A.E.ValidateNavigationBar [TestNG] Header is validated
+2021-08-12 12:55:34,251 INFO A.E.ValidateNavigationBar [TestNG] Navigation Bar is validated
+2021-08-12 12:57:37,954 INFO A.E.ValidateNavigationBar [TestNG] Driver is initialized
+2021-08-12 12:57:37,975 INFO r.Base [TestNG] Driver is initialized
+2021-08-12 12:57:38,004 INFO A.E.ValidateNavigationBar [TestNG] Header is validated
+2021-08-12 12:57:38,016 INFO A.E.ValidateHomePage [TestNG] Driver is initialized
+2021-08-12 12:57:38,047 INFO A.E.ValidateNavigationBar [TestNG] Navigation Bar is validated
+2021-08-12 12:57:38,101 INFO A.E.ValidateHomePage [TestNG] Home Page is validated
+2021-08-12 12:57:38,245 INFO r.Base [TestNG] Driver is initialized
+2021-08-12 12:57:46,517 INFO r.Base [TestNG] Driver is initialized
+2021-08-12 12:58:56,619 INFO A.E.ValidateNavigationBar [TestNG] Driver is initialized
+2021-08-12 12:58:56,633 INFO A.E.ValidateHomePage [TestNG] Driver is initialized
+2021-08-12 12:58:56,673 INFO A.E.ValidateNavigationBar [TestNG] Header is validated
+2021-08-12 12:58:56,703 INFO A.E.ValidateHomePage [TestNG] Home Page is validated
+2021-08-12 12:58:56,710 INFO A.E.ValidateNavigationBar [TestNG] Navigation Bar is validated
+2021-08-12 12:58:56,859 INFO r.Base [TestNG] Driver is initialized
+2021-08-12 12:58:56,937 INFO r.Base [TestNG] Driver is initialized
+2021-08-12 12:59:04,400 INFO r.Base [TestNG] Driver is initialized
